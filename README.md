@@ -21,7 +21,7 @@ The Event Management System provides a comprehensive solution for managing event
 1. Clone the repository:
 
    ```
-   git clone https://github.com/PeoScouser98/quan_ly_su_kien.git <your_folder_name>
+   git clone https://github.com/datlt2306/sukienpoly.git <your_folder_name>
    ```
 
 2. Navigate to the project directory:
